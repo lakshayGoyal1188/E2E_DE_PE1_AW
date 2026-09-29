@@ -1,0 +1,63 @@
+[
+    {
+        "p_relative_url" : "lakshayGoyal1188/E2E_DE_PE1_AW/refs/heads/main/dataset/AdventureWorks_Calendar.csv",
+        "p_sink_folder" : "adventure_works_calendar",
+        "p_file_name" : "adventure_works_calendar.csv"
+    },
+    {
+        "p_relative_url" : "lakshayGoyal1188/E2E_DE_PE1_AW/blob/main/dataset/AdventureWorks_Customers.csv",
+        "p_sink_folder" : "adventure_works_customer",
+        "p_file_name" : "adventure_works_customer.csv"
+    },
+    {
+        "p_relative_url" : "lakshayGoyal1188/E2E_DE_PE1_AW/refs/heads/main/dataset/AdventureWorks_Product_Categories.csv",
+        "p_sink_folder" : "adventure_works_product_categories",
+        "p_file_name" : "adventure_works_product_categories.csv"
+    },
+    {
+        "p_relative_url" : "lakshayGoyal1188/E2E_DE_PE1_AW/refs/heads/main/dataset/AdventureWorks_Product_Subcategories.csv",
+        "p_sink_folder" : "adventure_works_product_categories",
+        "p_file_name" : "adventure_works_product_sub_categories.csv"
+    },
+    {
+        "p_relative_url" : "lakshayGoyal1188/E2E_DE_PE1_AW/refs/heads/main/dataset/AdventureWorks_Products.csv",
+        "p_sink_folder" : "adventure_works_products",
+        "p_file_name" : "adventure_works_products.csv"
+    },
+    {
+        "p_relative_url" : "lakshayGoyal1188/E2E_DE_PE1_AW/refs/heads/main/dataset/AdventureWorks_Returns.csv",
+        "p_sink_folder" : "adventure_works_returns",
+        "p_file_name" : "adventure_works_returns.csv"
+    },
+    {
+        "p_relative_url" : "lakshayGoyal1188/E2E_DE_PE1_AW/refs/heads/main/dataset/AdventureWorks_Sales_2015.csv",
+        "p_sink_folder" : "adventure_works_sales",
+        "p_file_name" : "adventure_works_sales_2015.csv"
+    },
+    {
+        "p_relative_url" : "lakshayGoyal1188/E2E_DE_PE1_AW/refs/heads/main/dataset/AdventureWorks_Sales_2016.csv",
+        "p_sink_folder" : "adventure_works_sales",
+        "p_file_name" : "adventure_works_sales_2016.csv"
+    },
+    {
+        "p_relative_url" : "lakshayGoyal1188/E2E_DE_PE1_AW/refs/heads/main/dataset/AdventureWorks_Sales_2017.csv",
+        "p_sink_folder" : "adventure_works_sales",
+        "p_file_name" : "adventure_works_sales_2017.csv"
+    },
+    {
+        "p_relative_url" : "lakshayGoyal1188/E2E_DE_PE1_AW/refs/heads/main/dataset/AdventureWorks_Territories.csv",
+        "p_sink_folder" : "adventure_works_territories",
+        "p_file_name" : "adventure_works_territories.csv"
+    }
+
+
+
+
+
+
+
+
+
+
+
+]
